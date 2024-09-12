@@ -1,4 +1,4 @@
-<h2 align="left">Experienced <b>Full Stack (Front-end Heavy) Developer</b> with 6 years of freelance and creative development experience, specializing in designing intuitive, responsive websites and applications. Combines a strong foundation in software development with an artistic background in GFX and 3D design, creating engaging visuals and collaborating across teams.</h2>
+<h5 align="left">Experienced <b>Full Stack (Front-end Heavy) Developer</b> with 6 years of freelance and creative development experience, specializing in designing intuitive, responsive websites and applications. Combines a strong foundation in software development with an artistic background in GFX and 3D design, creating engaging visuals and collaborating across teams.</h5>
 
 ###
 
